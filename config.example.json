@@ -1,0 +1,9 @@
+{
+  "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"],
+  "Documents": [".pdf", ".docx", ".doc", ".txt", ".xlsx", ".csv", ".pptx"],
+  "Code": [".py", ".rs", ".js", ".html", ".css", ".json", ".sh"],
+  "Archives": [".zip", ".tar", ".gz", ".rar", ".7z"],
+  "Audio": [".mp3", ".wav", ".flac", ".aac"],
+  "Books": [".epub", ".mobi"],
+  "Videos": [".mp4", ".mkv", ".avi", ".mov"]
+}
